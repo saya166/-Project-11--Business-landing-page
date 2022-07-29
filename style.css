@@ -1,0 +1,243 @@
+@import url("https://fonts.googleapis.com/css2?family=Arima:wght@300&family=Black+Han+Sans&family=Encode+Sans&family=Francois+One&family=Kaushan+Script&family=Merriweather+Sans:wght@800&family=Montserrat:wght@500&family=Orbitron:wght@500;900&family=Roboto:wght@100;300;700;900&family=Shadows+Into+Light&family=Signika:wght@500;700&family=Varela&family=Volkhov:wght@700&display=swap");
+
+.container {
+  margin-left: -7.2px;
+  margin-top: -30px;
+}
+* {
+  font-family: "Montserrat";
+}
+.header {
+  padding-top: 20px;
+  padding-left: 60px;
+  background-color: #4d697d;
+  height: 600px;
+}
+.navbar {
+  margin-left: 20px;
+  margin-top: 30px;
+}
+.main-logo {
+  height: 40px;
+  color: white;
+}
+.list {
+  float: right;
+  margin-right: 220px;
+}
+.list-item {
+  display: inline;
+  padding: 10px 20px;
+  color: white;
+}
+.btn-main {
+  float: right;
+  margin-right: -150px;
+  margin-top: -39px;
+  padding: 4px;
+  width: 100px;
+  border: 1px solid rgb(175, 166, 166);
+  background-color: transparent;
+  color: white;
+}
+.header-body {
+  display: flex;
+  flex-direction: row;
+  margin-top: 100px;
+}
+.img1 {
+  margin-top: -35px;
+}
+.info1 {
+  margin-top: -35px;
+  margin-left: 170px;
+  color: white;
+}
+.info1 h2 {
+  font-size: 50px;
+  letter-spacing: 1px;
+}
+form {
+  display: inline-block;
+  position: relative;
+}
+input[type="email"] {
+  padding: 10px;
+  width: 350px;
+  color: black;
+  background-image: url(./assets/email-icon.png);
+  background-repeat: no-repeat;
+  background-position: 6px;
+  background-size: 20px;
+}
+
+button[type="form-btn"] {
+  position: absolute;
+  margin-top: 5px;
+  margin-right: 5px;
+  top: 0;
+  right: 0;
+  width: 100px;
+  padding: 5px;
+  background-color: #3f835c;
+  color: white;
+  border: 0.6px solid #3f835c;
+}
+
+.main3 {
+  padding-left: 60px;
+  padding-top: 20px;
+}
+.main-1 h2 {
+  text-align: center;
+  font-size: 30px;
+}
+.numbers {
+  margin-top: -15px;
+  display: flex;
+  flex-direction: row;
+}
+.numbers h3 {
+  font-size: 22px;
+}
+.numbers h5 {
+  margin-top: -10px;
+  color: #555757;
+}
+.num {
+  padding: 0px 0px 0px 150px;
+}
+#main2-img {
+  padding-left: 70px;
+  height: 490px;
+  width: 1000px;
+}
+
+.main-2 {
+  margin-top: 30px;
+  padding-left: 60px;
+}
+.main-2 h2 {
+  text-align: center;
+  font-size: 30px;
+}
+.parts {
+  margin-top: 55px;
+  margin-bottom: 38px;
+}
+.parts .part h2 {
+  margin-top: 50px;
+  word-spacing: 3px;
+  font-size: 35px;
+}
+.parts p {
+  font-size: 15px;
+  color: #555757;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+}
+
+.btn {
+  margin-top: 10px;
+  width: 140px;
+  padding: 10px;
+  color: white;
+  background-color: #3f835c;
+  border: 0.5px solid black;
+}
+.part {
+  display: flex;
+  flex-direction: row;
+  padding: 0px 0px 0px 20px;
+}
+
+#i1 {
+  margin-left: 150px;
+}
+#i3 {
+  margin-left: 150px;
+  margin-bottom: 59px;
+  margin-top: 100px;
+}
+#i2 {
+  margin-left: 40px;
+  margin-bottom: 59px;
+  margin-top: 50px;
+}
+
+.part2-img {
+  margin-top: 100px;
+}
+.part2-info {
+  margin-top: 100px;
+  margin-left: 150px;
+}
+.part3-info {
+  margin-top: 130px;
+}
+
+.main-3 {
+  padding-left: 70px;
+}
+.head-part {
+  display: flex;
+  flex-direction: row;
+}
+.head-part h2 {
+  font-size: 30px;
+  word-spacing: 4px;
+}
+.head-part p {
+  float: right;
+  margin-left: 350px;
+  margin-top: 30px;
+  word-spacing: 3px;
+  font-stretch: ultra-expanded;
+}
+.main3-body {
+  display: flex;
+  flex-direction: row;
+}
+
+.mh {
+  margin-left: 80px;
+}
+
+#mbtn {
+  margin-left: 420px;
+}
+
+.footer {
+  margin-top: 60px;
+  background-color: rgb(25, 13, 61);
+}
+.foot-logo {
+  margin-top: 30px;
+  margin-left: 115px;
+  margin-bottom: 30px;
+}
+.social-icons {
+  float: right;
+  margin-top: 20px;
+  margin-right: 100px;
+  height: 70px;
+}
+
+.foot-body {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+}
+
+.foot-div {
+  margin: 0px 0px 20px 80px;
+}
+.foot-div ul label {
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+}
+.foot-div ul li {
+  margin: 20px 0px 15px 0px;
+  color: white;
+}
