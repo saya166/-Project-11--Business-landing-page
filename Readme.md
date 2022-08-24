@@ -2,14 +2,15 @@
 
 - ## _`: By Sayali Patil`_
 
-**[Click here](https://business-landing-page-saya.netlify.app/) for the live demo of the webspage on [Netlify](https://www.netlify.com/).**
+**[Click here](https://business-landing-page-saya.netlify.app/) for the live demo of the webpage on [Netlify](https://www.netlify.com/).**
 
 ## Key Features
 
-**Business Landing Page** is The sample webpage that is Designed with HTML5 and CSS-3.
+**Business Landing Page** is The sample Responsive webpage that is Designed with HTML5 and CSS-3.
 
 - ### Font Used -
   - Montserrat
+- `Media Queries` are used.
 - Icons are used from _canva_.
 - The website is hosted on _Netlify_.
 - The _LEARN MORE Button_ is made transparent.
